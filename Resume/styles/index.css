@@ -1,0 +1,23 @@
+.banner {
+    width: 100%;
+}
+.circle {
+    border-radius: 50%;
+    width: 20%;
+    border-style:solid;
+    border-color: #444444;
+    border-width: 10px;
+    margin:10px
+}
+.foot {
+    background-color: #737373;
+    padding-bottom:20px;
+}
+.spaced {
+    width: 75%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin:0 auto;
+}

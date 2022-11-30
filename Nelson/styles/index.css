@@ -1,0 +1,27 @@
+body {
+    background-color: #FCA6C9;
+}
+
+h1, h2, h3, h4, p {
+    color: white;
+}
+
+h1:hover {
+    color: black;
+}
+
+html {
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+}
+
+ol {
+    float:left;
+    text-align: left;
+}
+
+p {
+    font-size:x-large;
+}
+

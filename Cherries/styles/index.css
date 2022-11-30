@@ -1,0 +1,29 @@
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 100%;
+}
+.cherries {
+    width: 100%;
+    grid-column: 1;
+    float:left;
+}
+.square {
+    width: 100%;
+    background-color: #b9b8b9;
+    grid-column: 2;
+    float: right;
+}
+h1 {
+    position: absolute;
+    width: 100%;
+    font-size:15vw;
+    text-align: center;
+}
+h2 {
+    position:relative;
+    text-align: center;
+    font-size: 5vw;
+    color: #9c0e11;
+    top:60%
+}
